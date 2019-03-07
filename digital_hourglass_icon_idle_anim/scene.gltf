@@ -1,0 +1,730 @@
+{
+  "accessors": [
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 12288,
+      "max": [
+        1.0031499862670898,
+        1.0031499862670898,
+        1.7124600410461426
+      ],
+      "min": [
+        -1.0031499862670898,
+        -1.0031499862670898,
+        -1.7124600410461426
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 147456,
+      "componentType": 5126,
+      "count": 12288,
+      "max": [
+        0.9951435923576355,
+        0.9951435923576355,
+        0.99997580051422119
+      ],
+      "min": [
+        -0.9951435923576355,
+        -0.9951445460319519,
+        -0.99997580051422119
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 18432,
+      "max": [
+        12287
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 294912,
+      "componentType": 5126,
+      "count": 2304,
+      "max": [
+        2.8981199264526367,
+        2.8981199264526367,
+        6.713129997253418
+      ],
+      "min": [
+        -2.8981199264526367,
+        -2.8981199264526367,
+        -4.7366900444030762
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 322560,
+      "componentType": 5126,
+      "count": 2304,
+      "max": [
+        0.99518442153930664,
+        0.99518442153930664,
+        1
+      ],
+      "min": [
+        -0.99518442153930664,
+        -0.99518442153930664,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 73728,
+      "componentType": 5125,
+      "count": 4464,
+      "max": [
+        2303
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 350208,
+      "componentType": 5126,
+      "count": 8960,
+      "max": [
+        1.3077700138092041,
+        1.3077700138092041,
+        1.8747600317001343
+      ],
+      "min": [
+        -1.3077700138092041,
+        -1.3077700138092041,
+        -1.8747600317001343
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 457728,
+      "componentType": 5126,
+      "count": 8960,
+      "max": [
+        0.99920535087585449,
+        0.99991917610168457,
+        0.92378354072570801
+      ],
+      "min": [
+        -0.99920535087585449,
+        -0.99991917610168457,
+        -0.92378354072570801
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 91584,
+      "componentType": 5125,
+      "count": 13440,
+      "max": [
+        8959
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 565248,
+      "componentType": 5126,
+      "count": 256,
+      "max": [
+        0.7183300256729126,
+        1.0655399560928345,
+        1.6946300268173218
+      ],
+      "min": [
+        -0.90940999984741211,
+        -1.1807199716567993,
+        -1.6946300268173218
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 568320,
+      "componentType": 5126,
+      "count": 256,
+      "max": [
+        0.99999904632568359,
+        0.99999904632568359,
+        0.7071000337600708
+      ],
+      "min": [
+        -0.99999904632568359,
+        -0.99999904632568359,
+        -0.7071000337600708
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 145344,
+      "componentType": 5125,
+      "count": 384,
+      "max": [
+        255
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 40,
+      "max": [
+        1.6666699647903442
+      ],
+      "min": [
+        0.041669998317956924
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 40,
+      "max": [
+        0.43134000897407532,
+        0.90213000774383545,
+        0.43119999766349792,
+        0.90217000246047974
+      ],
+      "min": [
+        -0.39120000600814819,
+        -0.8852199912071228,
+        -0.19394999742507935,
+        0.012690000236034393
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 160,
+      "componentType": 5126,
+      "count": 40,
+      "max": [
+        1.6666699647903442
+      ],
+      "min": [
+        0.041669998317956924
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 4,
+      "byteOffset": 640,
+      "componentType": 5126,
+      "count": 40,
+      "max": [
+        0.90447998046875,
+        0.42476001381874084,
+        0.42487001419067383,
+        0.90500998497009277
+      ],
+      "min": [
+        -0.90389001369476318,
+        -0.36390000581741333,
+        -0.18692000210285187,
+        0.03328000009059906
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 320,
+      "componentType": 5126,
+      "count": 40,
+      "max": [
+        1.6666699647903442
+      ],
+      "min": [
+        0.041669998317956924
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 40,
+      "max": [
+        0.15725000202655792,
+        1.0060900449752808,
+        -0.18010999262332916
+      ],
+      "min": [
+        -0.076810002326965332,
+        0.9891200065612793,
+        -0.19708000123500824
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 480,
+      "componentType": 5126,
+      "count": 40,
+      "max": [
+        1.6666699647903442
+      ],
+      "min": [
+        0.041669998317956924
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 4,
+      "byteOffset": 1280,
+      "componentType": 5126,
+      "count": 40,
+      "max": [
+        0.27037999033927917,
+        0.2705099880695343,
+        0.96268999576568604,
+        0.96267002820968628
+      ],
+      "min": [
+        -0.18953000009059906,
+        -0.17321999371051788,
+        -0.95750999450683594,
+        -0.0035699999425560236
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 640,
+      "componentType": 5126,
+      "count": 40,
+      "max": [
+        1.6666699647903442
+      ],
+      "min": [
+        0.041669998317956924
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 4,
+      "byteOffset": 1920,
+      "componentType": 5126,
+      "count": 40,
+      "max": [
+        0.2703000009059906,
+        0.2705099880695343,
+        0.96262001991271973,
+        0.96262997388839722
+      ],
+      "min": [
+        -0.18644000589847565,
+        -0.17542000114917755,
+        -0.95851999521255493,
+        0.011739999987185001
+      ],
+      "type": "VEC4"
+    }
+  ],
+  "animations": [
+    {
+      "channels": [
+        {
+          "sampler": 0,
+          "target": {
+            "node": 9,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 1,
+          "target": {
+            "node": 7,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 2,
+          "target": {
+            "node": 5,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 3,
+          "target": {
+            "node": 5,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 4,
+          "target": {
+            "node": 3,
+            "path": "rotation"
+          }
+        }
+      ],
+      "name": "Take 01",
+      "samplers": [
+        {
+          "input": 12,
+          "interpolation": "LINEAR",
+          "output": 13
+        },
+        {
+          "input": 14,
+          "interpolation": "LINEAR",
+          "output": 15
+        },
+        {
+          "input": 16,
+          "interpolation": "LINEAR",
+          "output": 17
+        },
+        {
+          "input": 18,
+          "interpolation": "LINEAR",
+          "output": 19
+        },
+        {
+          "input": 20,
+          "interpolation": "LINEAR",
+          "output": 21
+        }
+      ]
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Art(AVA)Ankhn (https://sketchfab.com/artankhn)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/models/c40a266de38a4990a5d8d89cca443ea1",
+      "title": "Digital Hourglass Icon (idle anim)"
+    },
+    "generator": "Sketchfab-3.36.2",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 146880,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 571392,
+      "byteOffset": 146880,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 800,
+      "byteOffset": 718272,
+      "name": "floatBufferViews"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 480,
+      "byteOffset": 719072,
+      "byteStride": 12,
+      "name": "floatBufferViews"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2560,
+      "byteOffset": 719552,
+      "byteStride": 16,
+      "name": "floatBufferViews"
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 722112,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsRequired": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "extensionsUsed": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0.023752372995896637,
+        0.57648219735918982,
+        1
+      ],
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "glossinessFactor": 0.40000000000000002,
+          "specularFactor": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "name": "Material"
+    },
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "emissiveFactor": [
+        0.56592987800000005,
+        0.56592987800000005,
+        0.56592987800000005
+      ],
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            1,
+            1,
+            1,
+            0.43464176830000001
+          ],
+          "glossinessFactor": 0.48360222580000001,
+          "specularFactor": [
+            0.80000001190000003,
+            0.80000001190000003,
+            0.80000001190000003
+          ]
+        }
+      },
+      "name": "Material.001"
+    }
+  ],
+  "meshes": [
+    {
+      "name": "digital_hourglass_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0
+          },
+          "indices": 2,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "digital_sand.006_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 4,
+            "POSITION": 3
+          },
+          "indices": 5,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "digital_hourglass.001_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 7,
+            "POSITION": 6
+          },
+          "indices": 8,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "digital_hourglass.002_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 10,
+            "POSITION": 9
+          },
+          "indices": 11,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        2.9231199732748792e-05,
+        1.3369999578571878e-06,
+        -4.7644298319937661e-05,
+        1
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3,
+        5,
+        7,
+        9
+      ],
+      "name": "Root"
+    },
+    {
+      "children": [
+        4
+      ],
+      "name": "digital_hourglass",
+      "rotation": [
+        0.11278031766414642,
+        0.24597069621086121,
+        0.34684097766876221,
+        0.89804255962371826
+      ],
+      "translation": [
+        0.001449999981559813,
+        0.97367000579833984,
+        0.025450000539422035
+      ]
+    },
+    {
+      "mesh": 0,
+      "name": "digital_hourglass_0"
+    },
+    {
+      "children": [
+        6
+      ],
+      "name": "digital_sand.006",
+      "rotation": [
+        0.11277993023395538,
+        0.24596984684467316,
+        0.34684979915618896,
+        0.89803946018218994
+      ],
+      "scale": [
+        0.29043000936508179,
+        0.29043000936508179,
+        0.29043000936508179
+      ],
+      "translation": [
+        -0.076810002326965332,
+        1.0060900449752808,
+        -0.19708000123500824
+      ]
+    },
+    {
+      "mesh": 1,
+      "name": "digital_sand.006_0"
+    },
+    {
+      "children": [
+        8
+      ],
+      "name": "digital_hourglass.001",
+      "rotation": [
+        0.11278031766414642,
+        0.24597069621086121,
+        0.34684097766876221,
+        0.89804255962371826
+      ],
+      "translation": [
+        0.001449999981559813,
+        0.97367000579833984,
+        0.025450000539422035
+      ]
+    },
+    {
+      "mesh": 2,
+      "name": "digital_hourglass.001_0"
+    },
+    {
+      "children": [
+        10
+      ],
+      "name": "digital_hourglass.002",
+      "rotation": [
+        0.11278031766414642,
+        0.24597069621086121,
+        0.34684097766876221,
+        0.89804255962371826
+      ],
+      "translation": [
+        0.001449999981559813,
+        0.97367000579833984,
+        0.025450000539422035
+      ]
+    },
+    {
+      "mesh": 3,
+      "name": "digital_hourglass.002_0"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
+
